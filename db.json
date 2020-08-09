@@ -1,0 +1,226 @@
+{
+	"q1": [{
+			"grid": "18",
+			"price": 49.99,
+			"lab_price": 100.57,
+			"missing": false,
+			"procedure": "inlay"
+		},
+		{
+			"grid": "17",
+			"price": 49.99,
+			"lab_price": 10.56,
+			"missing": false,
+			"procedure": "onlay"
+		},
+		{
+			"grid": "16",
+			"price": 49.99,
+			"missing": true,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "15",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "14",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "13",
+			"price": 49.99,
+			"missing": true,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "12",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "11",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		}
+	],
+
+	"q2": [{
+			"grid": "21",
+			"price": 149.99,
+			"lab_price": 150.77,
+			"missing": false,
+			"procedure": "inlay"
+		},
+		{
+			"grid": "22",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "23",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "24",
+			"price": 49.99,
+			"missing": false,
+			"procedure": "bridge"
+		},
+		{
+			"grid": "25",
+			"price": 49.99,
+			"missing": false,
+			"procedure": "bridge"
+		},
+		{
+			"grid": "26",
+			"price": 49.99,
+			"missing": false,
+			"procedure": "bridge"
+		},
+		{
+			"grid": "27",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "28",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		}
+	],
+
+	"q3": [{
+			"grid": "31",
+			"price": 49.99,
+			"lab_price": 231.09,
+			"missing": false,
+			"procedure": "implant"
+		},
+		{
+			"grid": "32",
+			"price": 49.99,
+			"missing": false,
+			"procedure": "restorative"
+		},
+		{
+			"grid": "33",
+			"price": 49.99,
+			"missing": true,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "34",
+			"price": 49.99,
+			"missing": false,
+			"procedure": "restorative"
+		},
+		{
+			"grid": "35",
+			"price": 149.99,
+			"missing": false,
+			"procedure": "root_canal"
+		},
+		{
+			"grid": "36",
+			"price": 349.99,
+			"missing": false,
+			"procedure": "surgery"
+		},
+		{
+			"grid": "37",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "38",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		}
+	],
+
+	"q4": [{
+			"grid": "48",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "47",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "46",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "45",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "44",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "43",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "42",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		},
+		{
+			"grid": "41",
+			"price": 49.99,
+			"missing": false,
+			"lab_price": 0,
+			"procedure": " "
+		}
+	]
+}
